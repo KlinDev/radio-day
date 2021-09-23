@@ -1203,7 +1203,7 @@ footer p {
     right: -48px;
   }
   .pos-absolute-content {
-    min-height: 10px;
+    min-height: 230px;
   }
   .questions-answers .item:nth-child(2) {
     margin-right: 10px;
