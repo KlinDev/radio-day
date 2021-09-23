@@ -1147,10 +1147,16 @@ footer p {
   .speaker-speech-info > div:first-child > div {
     width: 50%;
   }
+  .speakers-list {
+    display: inline-block;
+  }
   .speakers-list .item {
-    flex-direction: column;
+    display: inline-block;
     align-items: center;
     padding: 0 30px;
+  }
+  .item-pic {
+    margin: 0 auto;
   }
   span.radio-cabin-time {
     font-size: 3rem;
